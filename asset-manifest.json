@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PingPong/static/css/main.30c84598.css",
+    "main.js": "/PingPong/static/js/main.64b7a14a.js",
+    "static/js/592.478a79a1.chunk.js": "/PingPong/static/js/592.478a79a1.chunk.js",
+    "static/media/bg.jpg": "/PingPong/static/media/bg.fe765ede523ff5bf298f.jpg",
+    "index.html": "/PingPong/index.html",
+    "main.30c84598.css.map": "/PingPong/static/css/main.30c84598.css.map",
+    "main.64b7a14a.js.map": "/PingPong/static/js/main.64b7a14a.js.map",
+    "592.478a79a1.chunk.js.map": "/PingPong/static/js/592.478a79a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c84598.css",
+    "static/js/main.64b7a14a.js"
+  ]
+}
