@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('bg.jpg');
+    background-size: stretch; /* Cover the entire background */
+    background-position: center;
+    color: rgb(235, 254, 27);
+    /* Add opacity */
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+  
+.button {
+    background-color: #4caf50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #45a049; /* Darker green */
+  }
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transform: translateY(2px);
+  }
+  
