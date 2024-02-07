@@ -6,7 +6,7 @@ export default function Home (){
         <div>
             <h1>Hello World!</h1>
             <button>Yes</button>
-            <button>No</button>
+            <button>Noo!</button>
         </div>
     )
 }
