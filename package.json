@@ -2,7 +2,7 @@
   "name": "web",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://gauravkumar-m.github.io/PingPong",
+  "homepage": "https://gauravkumar-a.github.io/PingPong",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
